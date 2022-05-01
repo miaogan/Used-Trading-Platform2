@@ -81,3 +81,4 @@ public class RegisterController {
         return BaseResponse.fail();
     }
 }
+
